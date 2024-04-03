@@ -3,7 +3,7 @@
 #
 cd /tmp
 set -e 
- wget "https://raw.githubusercontent.com/SaberArnane/Novaler/main/novalerstore-panel_python3_2.0-r0_all.tar.gz"
+ wget "https://raw.githubusercontent.com/SaberArnane/main/Novaler/novalerstore-panel_python3_2.0-r0_all.tar.gz"
 wait
 tar -xzf novalerstore-panel_python3_2.0-r0_all.tar.gz  -C /
 wait
